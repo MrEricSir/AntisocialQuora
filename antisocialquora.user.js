@@ -7,6 +7,7 @@
 // @grant none
 // ==/UserScript==
 
+
 // Add global CSS styles
 // from http://diveintogreasemonkey.org/patterns/add-css.html
 function addGlobalStyle(css) {
